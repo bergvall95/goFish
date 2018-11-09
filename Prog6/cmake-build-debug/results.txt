@@ -1,383 +1,346 @@
-Fuck Physio has : 7d Ah 8s 3d 8h 9d 5s  in hand
-Fuck Signal has : 3c 6d 5h 3h As 10h Kh  in hand
-
-Fuck Physio asks - Do you have a 5?
-Fuck Signal says - Yes. I have a 5
-Fuck Physio has : 7d Ah 3d 9d in hand
-Fuck Physio has : 8s 8h 5s 5h in book
-Fuck Signal has : 3c 6d 3h As 10h Kh in hand
-Fuck Signal has : in book
-
-Fuck Physio asks - Do you have a 7?
-Fuck Signal says - Go Fish
-Fuck Physio has : 7d Ah 3d 9d Qd in hand
-Fuck Physio has : 8s 8h 5s 5h in book
-Fuck Signal has : 3c 6d 3h As 10h Kh in hand
-Fuck Signal has : in book
-
-Fuck Signal asks - Do you have a 6?
-Fuck Physio says - Go Fish
-Fuck Physio has : 7d Ah 3d 9d Qd in hand
-Fuck Physio has : 8s 8h 5s 5h in book
-Fuck Signal has : 6d As 10h Kh 4h in hand
-Fuck Signal has : 3c 3h in book
-
-Fuck Physio asks - Do you have a Q?
-Fuck Signal says - Go Fish
-Fuck Physio has : 7d Ah 3d 9d Qd 7s in hand
-Fuck Physio has : 8s 8h 5s 5h in book
-Fuck Signal has : 6d As 10h Kh 4h in hand
-Fuck Signal has : 3c 3h in book
-
-Fuck Signal asks - Do you have a 4?
-Fuck Physio says - Go Fish
-Fuck Physio has : 7d Ah 3d 9d Qd 7s in hand
-Fuck Physio has : 8s 8h 5s 5h in book
-Fuck Signal has : 6d As 10h Kh 4h Ac in hand
-Fuck Signal has : 3c 3h in book
+Fuck Physio has : 5c 9c 2d As Qc 6s 10s  in hand
+Fuck Signal has : 5h 6d 3h 7d 9d 10h 9h  in hand
 
 Fuck Physio asks - Do you have a A?
-Fuck Signal says - Yes. I have a A
-Fuck Signal says - Yes. I have a A
-Fuck Physio has : 3d 9d Qd Ac in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
-Fuck Signal has : 6d 10h Kh 4h in hand
-Fuck Signal has : 3c 3h in book
-
-Fuck Physio asks - Do you have a 3?
 Fuck Signal says - Go Fish
-Fuck Physio has : 3d 9d Qd Ac 6s in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
-Fuck Signal has : 6d 10h Kh 4h in hand
-Fuck Signal has : 3c 3h in book
+Fuck Physio has : 5c 9c 2d As Qc 6s 10s 8h in hand
+Fuck Physio has : in book
+Fuck Signal has : 5h 6d 3h 7d 9d 10h 9h in hand
+Fuck Signal has : in book
 
 Fuck Signal asks - Do you have a 6?
 Fuck Physio says - Yes. I have a 6
-Fuck Physio has : 3d 9d Qd Ac in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
-Fuck Signal has : 10h Kh 4h in hand
-Fuck Signal has : 3c 3h 6d 6s in book
+Fuck Physio has : 5c 9c 2d As Qc 10s 8h in hand
+Fuck Physio has : in book
+Fuck Signal has : 5h 3h 7d 10h in hand
+Fuck Signal has : 9d 9h 6d 6s in book
 
-Fuck Signal asks - Do you have a K?
+Fuck Signal asks - Do you have a 7?
 Fuck Physio says - Go Fish
-Fuck Physio has : 3d 9d Qd Ac in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
-Fuck Signal has : 10h Kh 4h 7h in hand
-Fuck Signal has : 3c 3h 6d 6s in book
+Fuck Physio has : 5c 9c 2d As Qc 10s 8h in hand
+Fuck Physio has : in book
+Fuck Signal has : 5h 3h 7d 10h 5s in hand
+Fuck Signal has : 9d 9h 6d 6s in book
 
-Fuck Physio asks - Do you have a 3?
+Fuck Physio asks - Do you have a A?
 Fuck Signal says - Go Fish
-Fuck Physio has : 3d 9d Qd Ac 2h in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
-Fuck Signal has : 10h Kh 4h 7h in hand
-Fuck Signal has : 3c 3h 6d 6s in book
-
-Fuck Signal asks - Do you have a 10?
-Fuck Physio says - Go Fish
-Fuck Physio has : 3d 9d Qd Ac 2h in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
-Fuck Signal has : 10h Kh 4h 7h Ad in hand
-Fuck Signal has : 3c 3h 6d 6s in book
-
-Fuck Physio asks - Do you have a 2?
-Fuck Signal says - Go Fish
-Fuck Physio has : 3d 9d Qd Ac 2h 10c in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
-Fuck Signal has : 10h Kh 4h 7h Ad in hand
-Fuck Signal has : 3c 3h 6d 6s in book
-
-Fuck Signal asks - Do you have a A?
-Fuck Physio says - Yes. I have a A
-Fuck Physio has : 3d 9d Qd 2h 10c in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
-Fuck Signal has : 10h Kh 4h 7h in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac in book
+Fuck Physio has : 5c 9c 2d As Qc 10s 8h 8c in hand
+Fuck Physio has : in book
+Fuck Signal has : 5h 3h 7d 10h 5s in hand
+Fuck Signal has : 9d 9h 6d 6s in book
 
 Fuck Signal asks - Do you have a 10?
 Fuck Physio says - Yes. I have a 10
-Fuck Physio has : 3d 9d Qd 2h in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
-Fuck Signal has : Kh 4h 7h in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c in book
+Fuck Physio has : 5c 9c 2d As Qc 8h 8c in hand
+Fuck Physio has : in book
+Fuck Signal has : 3h 7d in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s in book
+
+Fuck Signal asks - Do you have a 3?
+Fuck Physio says - Go Fish
+Fuck Physio has : 5c 9c 2d As Qc 8h 8c in hand
+Fuck Physio has : in book
+Fuck Signal has : 3h 7d 4s in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s in book
+
+Fuck Physio asks - Do you have a 9?
+Fuck Signal says - Go Fish
+Fuck Physio has : 5c 9c 2d As Qc Ah in hand
+Fuck Physio has : 8h 8c in book
+Fuck Signal has : 3h 7d 4s in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s in book
 
 Fuck Signal asks - Do you have a 4?
 Fuck Physio says - Go Fish
-Fuck Physio has : 3d 9d Qd 2h in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
-Fuck Signal has : Kh 4h 7h 10d in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c in book
+Fuck Physio has : 5c 9c 2d As Qc Ah in hand
+Fuck Physio has : 8h 8c in book
+Fuck Signal has : 3h 7d 4s 2s in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s in book
 
-Fuck Physio asks - Do you have a 3?
+Fuck Physio asks - Do you have a 2?
+Fuck Signal says - Yes. I have a 2
+Fuck Physio has : 5c 9c Qc in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s in book
+Fuck Signal has : 3h 7d 4s in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s in book
+
+Fuck Physio asks - Do you have a Q?
 Fuck Signal says - Go Fish
-Fuck Physio has : 3d 9d Qd 2h 4d in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
-Fuck Signal has : Kh 4h 7h 10d in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c in book
+Fuck Physio has : 5c 9c Qc Jh in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s in book
+Fuck Signal has : 3h 7d 4s in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s in book
 
-Fuck Signal asks - Do you have a K?
+Fuck Signal asks - Do you have a 4?
 Fuck Physio says - Go Fish
-Fuck Physio has : 3d 9d Qd 2h 4d in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
-Fuck Signal has : Kh 4h 7h 10d 2c in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c in book
+Fuck Physio has : 5c 9c Qc Jh in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s in book
+Fuck Signal has : 3h 7d 4s 7h in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s in book
 
-Fuck Physio asks - Do you have a 4?
-Fuck Signal says - Yes. I have a 4
-Fuck Physio has : 3d 9d Qd 2h in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
-Fuck Signal has : Kh 7h 10d 2c in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c in book
-
-Fuck Physio asks - Do you have a 3?
+Fuck Physio asks - Do you have a Q?
 Fuck Signal says - Go Fish
-Fuck Physio has : 3d 9d Qd 2h 4c in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
-Fuck Signal has : Kh 7h 10d 2c in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c in book
+Fuck Physio has : 5c 9c Qc Jh Jc in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s in book
+Fuck Signal has : 3h 7d 4s 7h in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s in book
 
-Fuck Signal asks - Do you have a K?
+Fuck Signal asks - Do you have a 3?
 Fuck Physio says - Go Fish
-Fuck Physio has : 3d 9d Qd 2h 4c in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
-Fuck Signal has : Kh 7h 10d 2c 10s in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c in book
+Fuck Physio has : 5c 9c Qc Jh Jc in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s in book
+Fuck Signal has : 3h 4s 5d in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h in book
 
-Fuck Physio asks - Do you have a 4?
+Fuck Physio asks - Do you have a Q?
 Fuck Signal says - Go Fish
-Fuck Physio has : 3d 9d Qd 2h 4c Kc in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
-Fuck Signal has : Kh 7h 10d 2c 10s in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c in book
+Fuck Physio has : 5c 9c Qc Ad in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc in book
+Fuck Signal has : 3h 4s 5d in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h in book
+
+Fuck Signal asks - Do you have a 5?
+Fuck Physio says - Yes. I have a 5
+Fuck Physio has : 9c Qc Ad in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc in book
+Fuck Signal has : 3h 4s in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c in book
+
+Fuck Signal asks - Do you have a 3?
+Fuck Physio says - Go Fish
+Fuck Physio has : 9c Qc Ad in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc in book
+Fuck Signal has : 3h 4s 7s in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c in book
+
+Fuck Physio asks - Do you have a A?
+Fuck Signal says - Go Fish
+Fuck Physio has : 9c Qc Ad 9s in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc in book
+Fuck Signal has : 3h 4s 7s in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c in book
 
 Fuck Signal asks - Do you have a 7?
 Fuck Physio says - Go Fish
-Fuck Physio has : 3d 9d Qd 2h 4c Kc in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
-Fuck Signal has : Kh 7h 2c 9h in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s in book
-
-Fuck Physio asks - Do you have a 4?
-Fuck Signal says - Go Fish
-Fuck Physio has : 3d 9d Qd 2h 4c Kc Jh in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
-Fuck Signal has : Kh 7h 2c 9h in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s in book
-
-Fuck Signal asks - Do you have a K?
-Fuck Physio says - Yes. I have a K
-Fuck Physio has : 3d 9d Qd 2h 4c Jh in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
-Fuck Signal has : 7h 2c 9h in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc in book
-
-Fuck Signal asks - Do you have a 2?
-Fuck Physio says - Yes. I have a 2
-Fuck Physio has : 3d 9d Qd 4c Jh in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
-Fuck Signal has : 7h 9h in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h in book
-
-Fuck Signal asks - Do you have a 7?
-Fuck Physio says - Go Fish
-Fuck Physio has : 3d 9d Qd 4c Jh in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
-Fuck Signal has : 7h 9h 2s in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h in book
-
-Fuck Physio asks - Do you have a J?
-Fuck Signal says - Go Fish
-Fuck Physio has : 3d 9d Qd 4c Jh 9s in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
-Fuck Signal has : 7h 9h 2s in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h in book
-
-Fuck Signal asks - Do you have a 9?
-Fuck Physio says - Yes. I have a 9
-Fuck Physio says - Yes. I have a 9
-Fuck Physio has : 3d Qd 4c Jh in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
-Fuck Signal has : 7h 2s 9s in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d in book
-
-Fuck Signal asks - Do you have a 2?
-Fuck Physio says - Go Fish
-Fuck Physio has : 3d Qd 4c Jh in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
-Fuck Signal has : 7h 2s 9s Qh in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d in book
-
-Fuck Physio asks - Do you have a 3?
-Fuck Signal says - Go Fish
-Fuck Physio has : 3d Qd 4c Jh 8c in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
-Fuck Signal has : 7h 2s 9s Qh in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d in book
-
-Fuck Signal asks - Do you have a 7?
-Fuck Physio says - Go Fish
-Fuck Physio has : 3d Qd 4c Jh 8c in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
-Fuck Signal has : 7h 2s 9s Qh 7c in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d in book
-
-Fuck Physio asks - Do you have a 8?
-Fuck Signal says - Go Fish
-Fuck Physio has : 3d Qd 4c Jh 8c Qc in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
-Fuck Signal has : 7h 2s 9s Qh 7c in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d in book
-
-Fuck Signal asks - Do you have a 9?
-Fuck Physio says - Go Fish
-Fuck Physio has : 3d Qd 4c Jh 8c Qc in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
-Fuck Signal has : 2s 9s Qh Js in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
-
-Fuck Physio asks - Do you have a 3?
-Fuck Signal says - Go Fish
-Fuck Physio has : 3d 4c Jh 8c Ks in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc in book
-Fuck Signal has : 2s 9s Qh Js in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
-
-Fuck Signal asks - Do you have a 2?
-Fuck Physio says - Go Fish
-Fuck Physio has : 3d 4c Jh 8c Ks in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc in book
-Fuck Signal has : 2s 9s Qh Js 6h in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
-
-Fuck Physio asks - Do you have a K?
-Fuck Signal says - Go Fish
-Fuck Physio has : 3d 4c Jh 8c Ks Qs in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc in book
-Fuck Signal has : 2s 9s Qh Js 6h in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
-
-Fuck Signal asks - Do you have a 6?
-Fuck Physio says - Go Fish
-Fuck Physio has : 3d 4c Jh 8c Ks Qs in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc in book
-Fuck Signal has : 2s 9s Qh Js 6h Kd in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
-
-Fuck Physio asks - Do you have a K?
-Fuck Signal says - Yes. I have a K
-Fuck Physio has : 3d 4c Jh 8c Qs in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd in book
-Fuck Signal has : 2s 9s Qh Js 6h in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
+Fuck Physio has : 9c Qc Ad 9s in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc in book
+Fuck Signal has : 3h 4s 7s Qs in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c in book
 
 Fuck Physio asks - Do you have a Q?
 Fuck Signal says - Yes. I have a Q
-Fuck Physio has : 3d 4c Jh 8c in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh in book
-Fuck Signal has : 2s 9s Js 6h in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
+Fuck Physio has : Ad in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs in book
+Fuck Signal has : 3h 4s 7s in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c in book
 
-Fuck Physio asks - Do you have a 3?
+Fuck Physio asks - Do you have a A?
 Fuck Signal says - Go Fish
-Fuck Physio has : 3d 4c Jh 8c 5c in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh in book
-Fuck Signal has : 2s 9s Js 6h in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
+Fuck Physio has : Ad Ks in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs in book
+Fuck Signal has : 3h 4s 7s in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c in book
 
-Fuck Signal asks - Do you have a 2?
+Fuck Signal asks - Do you have a 7?
 Fuck Physio says - Go Fish
-Fuck Physio has : 3d 4c Jh 8c 5c in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh in book
-Fuck Signal has : 2s 9s Js 6h 5d in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
+Fuck Physio has : Ad Ks in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs in book
+Fuck Signal has : 3h 4s 7s 3c in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c in book
 
-Fuck Physio asks - Do you have a 5?
-Fuck Signal says - Yes. I have a 5
-Fuck Physio has : 3d 4c Jh 8c in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d in book
-Fuck Signal has : 2s 9s Js 6h in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
-
-Fuck Physio asks - Do you have a 3?
+Fuck Physio asks - Do you have a A?
 Fuck Signal says - Go Fish
-Fuck Physio has : 3d 4c Jh 8c 3s in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d in book
-Fuck Signal has : 2s 9s Js 6h in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
+Fuck Physio has : Ad Ks 6h in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs in book
+Fuck Signal has : 3h 4s 7s 3c in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c in book
 
-Fuck Signal asks - Do you have a 2?
+Fuck Signal asks - Do you have a 4?
 Fuck Physio says - Go Fish
-Fuck Physio has : 3d 4c Jh 8c 3s in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d in book
-Fuck Signal has : 2s 9s Js 6h 9c in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
+Fuck Physio has : Ad Ks 6h in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs in book
+Fuck Signal has : 4s 7s 7c in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c in book
 
-Fuck Physio asks - Do you have a J?
-Fuck Signal says - Yes. I have a J
-Fuck Physio has : 4c 8c in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js in book
-Fuck Signal has : 2s 9s 6h 9c in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
-
-Fuck Physio asks - Do you have a 4?
+Fuck Physio asks - Do you have a 6?
 Fuck Signal says - Go Fish
-Fuck Physio has : 4c 8c 6c in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js in book
-Fuck Signal has : 2s 9s 6h 9c in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
+Fuck Physio has : Ad Ks 6h Qd in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs in book
+Fuck Signal has : 4s 7s 7c in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c in book
 
-Fuck Signal asks - Do you have a 2?
+Fuck Signal asks - Do you have a 4?
 Fuck Physio says - Go Fish
-Fuck Physio has : 4c 8c 6c in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js in book
-Fuck Signal has : 2s 6h Jc in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c 9s 9c in book
+Fuck Physio has : Ad Ks 6h Qd in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs in book
+Fuck Signal has : 4s Js in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c in book
 
-Fuck Physio asks - Do you have a 8?
+Fuck Physio asks - Do you have a 6?
 Fuck Signal says - Go Fish
-Fuck Physio has : 4c 8c 6c 2d in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js in book
-Fuck Signal has : 2s 6h Jc in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c 9s 9c in book
+Fuck Physio has : Ad Ks 6h Qd Kd in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs in book
+Fuck Signal has : 4s Js in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c in book
 
-Fuck Signal asks - Do you have a 6?
-Fuck Physio says - Yes. I have a 6
-Fuck Physio has : 4c 8c 2d in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js in book
-Fuck Signal has : 2s Jc in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c 9s 9c 6h 6c in book
-
-Fuck Signal asks - Do you have a 2?
-Fuck Physio says - Yes. I have a 2
-Fuck Physio has : 4c 8c in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js in book
-Fuck Signal has : Jc in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c 9s 9c 6h 6c 2s 2d in book
-
-Fuck Signal asks - Do you have a J?
+Fuck Signal asks - Do you have a 4?
 Fuck Physio says - Go Fish
-Fuck Physio has : 4c 8c in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js in book
-Fuck Signal has : Jc Jd in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c 9s 9c 6h 6c 2s 2d in book
+Fuck Physio has : Ad Ks 6h Qd Kd in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs in book
+Fuck Signal has : 4s Js Jd in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c in book
 
-Fuck Physio asks - Do you have a 4?
+Fuck Physio asks - Do you have a Q?
 Fuck Signal says - Go Fish
-Fuck Physio has : 4c 8c 4s in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js in book
-Fuck Signal has : Jc Jd in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c 9s 9c 6h 6c 2s 2d in book
+Fuck Physio has : Ad 6h Qd 4c in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd in book
+Fuck Signal has : 4s Js Jd in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c in book
+
+Fuck Signal asks - Do you have a 4?
+Fuck Physio says - Yes. I have a 4
+Fuck Physio has : Ad 6h Qd in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd in book
+Fuck Signal has : in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c in book
+
+Fuck Signal asks - Do you have a K?
+Fuck Physio says - Go Fish
+Fuck Physio has : Ad 6h Qd in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd in book
+Fuck Signal has : Kh 10c in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c in book
+
+Fuck Physio asks - Do you have a Q?
+Fuck Signal says - Go Fish
+Fuck Physio has : Ad 6h Qd 4d in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd in book
+Fuck Signal has : Kh 10c in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c in book
+
+Fuck Signal asks - Do you have a K?
+Fuck Physio says - Go Fish
+Fuck Physio has : Ad 6h Qd 4d in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd in book
+Fuck Signal has : Kh 10c 4h in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c in book
+
+Fuck Physio asks - Do you have a Q?
+Fuck Signal says - Go Fish
+Fuck Physio has : Ad 6h Qd 4d Kc in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd in book
+Fuck Signal has : Kh 10c 4h in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c in book
+
+Fuck Signal asks - Do you have a 4?
+Fuck Physio says - Yes. I have a 4
+Fuck Physio has : Ad 6h Qd Kc in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd in book
+Fuck Signal has : Kh 10c in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c 4h 4d in book
+
+Fuck Signal asks - Do you have a K?
+Fuck Physio says - Yes. I have a K
+Fuck Physio has : Ad 6h Qd in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd in book
+Fuck Signal has : 10c in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c 4h 4d Kh Kc in book
+
+Fuck Signal asks - Do you have a 10?
+Fuck Physio says - Go Fish
+Fuck Physio has : Ad 6h Qd in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd in book
+Fuck Signal has : 10c Qh in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c 4h 4d Kh Kc in book
+
+Fuck Physio asks - Do you have a Q?
+Fuck Signal says - Yes. I have a Q
+Fuck Physio has : Ad 6h in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd Qd Qh in book
+Fuck Signal has : 10c in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c 4h 4d Kh Kc in book
+
+Fuck Physio asks - Do you have a A?
+Fuck Signal says - Go Fish
+Fuck Physio has : Ad 6h 2h in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd Qd Qh in book
+Fuck Signal has : 10c in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c 4h 4d Kh Kc in book
+
+Fuck Signal asks - Do you have a 10?
+Fuck Physio says - Go Fish
+Fuck Physio has : Ad 6h 2h in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd Qd Qh in book
+Fuck Signal has : 10c 8d in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c 4h 4d Kh Kc in book
+
+Fuck Physio asks - Do you have a 2?
+Fuck Signal says - Go Fish
+Fuck Physio has : Ad 6h 2h 10d in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd Qd Qh in book
+Fuck Signal has : 10c 8d in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c 4h 4d Kh Kc in book
+
+Fuck Signal asks - Do you have a 10?
+Fuck Physio says - Yes. I have a 10
+Fuck Physio has : Ad 6h 2h in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd Qd Qh in book
+Fuck Signal has : 8d in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c 4h 4d Kh Kc 10c 10d in book
 
 Fuck Signal asks - Do you have a 8?
-Fuck Physio says - Yes. I have a 8
-Fuck Physio has : 4c 4s in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js in book
-Fuck Signal has : in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c 9s 9c 6h 6c 2s 2d Jc Jd 8d 8c in book
+Fuck Physio says - Go Fish
+Fuck Physio has : Ad 6h 2h in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd Qd Qh in book
+Fuck Signal has : 8d 6c in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c 4h 4d Kh Kc 10c 10d in book
+
+Fuck Physio asks - Do you have a 2?
+Fuck Signal says - Go Fish
+Fuck Physio has : Ad 6h 2h 2c in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd Qd Qh in book
+Fuck Signal has : 8d 6c in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c 4h 4d Kh Kc 10c 10d in book
+
+Fuck Signal asks - Do you have a 8?
+Fuck Physio says - Go Fish
+Fuck Physio has : Ad 6h 2h 2c in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd Qd Qh in book
+Fuck Signal has : 8d 6c 3d in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c 4h 4d Kh Kc 10c 10d in book
+
+Fuck Physio asks - Do you have a A?
+Fuck Signal says - Go Fish
+Fuck Physio has : Ad 6h Ac in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd Qd Qh 2h 2c in book
+Fuck Signal has : 8d 6c 3d in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c 4h 4d Kh Kc 10c 10d in book
+
+Fuck Signal asks - Do you have a 3?
+Fuck Physio says - Go Fish
+Fuck Physio has : Ad 6h Ac in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd Qd Qh 2h 2c in book
+Fuck Signal has : 8d 6c 3d 3s in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c 4h 4d Kh Kc 10c 10d in book
+
+Fuck Physio asks - Do you have a 6?
+Fuck Signal says - Yes. I have a 6
+Fuck Physio has : in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd Qd Qh 2h 2c Ad Ac 6h 6c in book
+Fuck Signal has : 8d 3d 3s in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c 4h 4d Kh Kc 10c 10d in book
+
+Fuck Physio asks - Do you have a 8?
+Fuck Signal says - Yes. I have a 8
+Fuck Physio has : in hand
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd Qd Qh 2h 2c Ad Ac 6h 6c 8s 8d in book
+Fuck Signal has : 3d 3s in hand
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c 4h 4d Kh Kc 10c 10d in book
 
 Fuck Physio has : in hand
-Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js 4c 4s in book
+Fuck Physio has : 8h 8c As Ah 2d 2s Jh Jc 9c 9s Qc Qs Ks Kd Qd Qh 2h 2c Ad Ac 6h 6c 8s 8d in book
 Fuck Signal has : in hand
-Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c 9s 9c 6h 6c 2s 2d Jc Jd 8d 8c in book
+Fuck Signal has : 9d 9h 6d 6s 5h 5s 10h 10s 7d 7h 5d 5c 3h 3c 7s 7c Js Jd 4s 4c 4h 4d Kh Kc 10c 10d 3d 3s in book
 
 Fuck Physio has 12 books 
 Fuck Signal has 14 books 

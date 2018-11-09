@@ -44,7 +44,9 @@ int main( ) {
         if (pt.getName().compare(p1.getName()) == 0) {
             Card a;
             Card b;
-            while(p1.checkHandForPair(a,b)==true);
+            while(p1.checkHandForPair(a,b)==true){
+
+            };
             if(p1.getHandSize()==0){
                 dealHand(d, p1, 1);
             }
@@ -63,7 +65,7 @@ int main( ) {
                 }
                 while(p1.checkHandForPair(a,b)==true){
 
-                }
+                };
             }
 
             else {
@@ -86,7 +88,9 @@ int main( ) {
         else {
             Card a;
             Card b;
-            while(p2.checkHandForPair(a,b)==true);
+            while(p2.checkHandForPair(a,b)==true){
+
+            };
 
             if(p2.getHandSize()==0){
                 dealHand(d, p2, 1);
@@ -105,7 +109,9 @@ int main( ) {
                         //p2.bookCards(c1, c2);
                     //}
                 }
-                while(p2.checkHandForPair(a,b)==true);
+                while(p2.checkHandForPair(a,b)==true){
+
+                };
             }
 
             else {
