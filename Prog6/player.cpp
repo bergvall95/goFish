@@ -74,7 +74,7 @@ bool Player::cardInHand(Card c) const{
 Card Player::removeCardFromHand(Card c){
     vector<Card>::const_iterator iter;
 
-    for(iter=myHand.cbegin();iter!=myHand.cend(); iter++){
+    for(iter = myHand.cbegin();iter != myHand.cend(); iter++){
         if((*iter).getRank() == c.getRank()){ // if the rank of the card in the hand is equal to the rank of the card given to the function, return true
             Card c = (*iter);
             myHand.erase(iter);
@@ -93,7 +93,7 @@ string Player::showHand() const{
 }
 string Player::showBooks() const{
     string x;
-    for(int i = 0; i < myHand.size(); i++){
+    for(int i = 0; i < myBook.size(); i++){
         x = x + myBook.at(i).toString() + " ";
     }
     return x;
@@ -112,8 +112,15 @@ int  Player::getBookSize() const{
 //If a pair is found, it returns true and populates the two variables with the cards tha make the pair.
 
 bool Player::checkHandForPair(Card &c1, Card &c2){
-    if (c1.getRank()==c2.getRank()){
-        return true;
+    for(int i = 0; i < myHand.size(); i++){
+        for(int j = i + 1; j < myHand.size(); j++){
+            if(myHand.at(i).getRank() == myHand.at(j).getRank()){
+                c1 = myHand.at(i);
+                c2 = myHand.at(j);
+                bookCards(c1,c2);
+                return true;
+            }
+        }
     }
     return false;
 
@@ -127,7 +134,7 @@ bool Player::checkHandForPair(Card &c1, Card &c2){
 bool Player::sameRankInHand(Card c) const{
     vector<Card>::const_iterator iter;
 
-    for(iter=myHand.begin(); iter!=myHand.end(); iter++){
+    for(iter = myHand.begin(); iter != myHand.end(); iter++){
         if((*iter).getRank() ==c.getRank()){ // if the rank of the card in the hand is equal to the rank of the card given to the function, return true
             return true;
         }
