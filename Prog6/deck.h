@@ -19,23 +19,23 @@
 #include "card.h"
 
 
-class deck
+class Deck
 {
     static const int SIZE = 52;
 
 public:
 
 
-    deck();           // pristine, sorted deck
+    Deck();           // pristine, sorted deck
 
     void shuffle();   // shuffle the deck, all 52 cards present
-    card dealCard();   // get a card, after 52 are dealt, fail
+    Card dealCard();   // get a card, after 52 are dealt, fail
 
     int  size() const; // # cards left in the deck
 
 private:
 
-    card myCards[SIZE];
+    Card myCards[SIZE];
     int myIndex;  // current card to deal
 };
 

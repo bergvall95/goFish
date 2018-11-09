@@ -9,17 +9,17 @@
 #include <ctime>
 using namespace std;
 
-card :: card(){
+Card :: Card(){
     myRank = 1;
     mySuit = spades;
 }
 
-card :: card(int x, Suit ss) {
+Card :: Card(int x, Suit ss) {
     myRank = x;
     mySuit = ss;
 }
 
-string card ::toString() const {
+string Card ::toString() const {
     string s;
     if(mySuit == spades) {
         if (myRank == 1) {
@@ -91,18 +91,18 @@ string card ::toString() const {
     }
     return s;
 }
-bool card ::sameSuitAs(const card &c) const {
+bool Card ::sameSuitAs(const Card &c) const {
     if(mySuit == c.mySuit){
         return true;
     }
     return  false;
 }
 
-int card ::getRank() const {
+int Card ::getRank() const {
     return myRank;
 }
 
-string card ::suitString(Suit s) const {
+string Card ::suitString(Suit s) const {
     string str;
     if(s == spades) {
         str = "s";
@@ -119,7 +119,7 @@ string card ::suitString(Suit s) const {
     return str;
 }
 
-string card ::rankString(int r) const {
+string Card ::rankString(int r) const {
     string s;
     if (r == 1) {
         s = "A";

@@ -16,11 +16,27 @@ C:/Users/Naris/Documents/EE312/Prog6/deck.h
 card.h
 C:/Users/Naris/Documents/EE312/Prog6/card.h
 
-C:/Users/Naris/Documents/EE312/Prog6/main.cpp
+C:/Users/Naris/Documents/EE312/Prog6/player.cpp
 iostream
+-
+cstdlib
+-
+deck.h
+C:/Users/Naris/Documents/EE312/Prog6/deck.h
+card.h
+C:/Users/Naris/Documents/EE312/Prog6/card.h
+player.h
+C:/Users/Naris/Documents/EE312/Prog6/player.h
+ctime
+-
+
+C:/Users/Naris/Documents/EE312/Prog6/player.h
+iostream
+-
+string
+-
+vector
 -
 card.h
 C:/Users/Naris/Documents/EE312/Prog6/card.h
-deck.h
-C:/Users/Naris/Documents/EE312/Prog6/deck.h
 

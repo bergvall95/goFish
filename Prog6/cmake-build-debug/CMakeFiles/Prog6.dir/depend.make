@@ -11,7 +11,10 @@ CMakeFiles/Prog6.dir/deck.cpp.obj: ../deck.h
 CMakeFiles/Prog6.dir/main.cpp.obj: ../card.h
 CMakeFiles/Prog6.dir/main.cpp.obj: ../deck.h
 CMakeFiles/Prog6.dir/main.cpp.obj: ../main.cpp
+CMakeFiles/Prog6.dir/main.cpp.obj: ../player.h
 
+CMakeFiles/Prog6.dir/player.cpp.obj: ../card.h
+CMakeFiles/Prog6.dir/player.cpp.obj: ../deck.h
 CMakeFiles/Prog6.dir/player.cpp.obj: ../player.cpp
 CMakeFiles/Prog6.dir/player.cpp.obj: ../player.h
 
