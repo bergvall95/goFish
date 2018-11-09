@@ -1,311 +1,384 @@
-Naris has : 7s Jd 9h 7d 10h 5h 5d  in hand
-Alex has : Qh Kh 4s 3d Kc 10s 3c  in hand
+Fuck Physio has : 7d Ah 8s 3d 8h 9d 5s  in hand
+Fuck Signal has : 3c 6d 5h 3h As 10h Kh  in hand
 
-Alex says - Yes. I have a 10
-Naris has : Jd 9h in hand
-Naris has : 7s 7d 5h 5d 10h 10s in book
-Alex has : Qh Kh 4s 3d Kc 3c in hand
-Alex has : in book
+Fuck Physio asks - Do you have a 5?
+Fuck Signal says - Yes. I have a 5
+Fuck Physio has : 7d Ah 3d 9d in hand
+Fuck Physio has : 8s 8h 5s 5h in book
+Fuck Signal has : 3c 6d 3h As 10h Kh in hand
+Fuck Signal has : in book
 
-Alex says - Go Fish
-Naris has : Jd 9h 4h in hand
-Naris has : 7s 7d 5h 5d 10h 10s in book
-Alex has : Qh Kh 4s 3d Kc 3c in hand
-Alex has : in book
+Fuck Physio asks - Do you have a 7?
+Fuck Signal says - Go Fish
+Fuck Physio has : 7d Ah 3d 9d Qd in hand
+Fuck Physio has : 8s 8h 5s 5h in book
+Fuck Signal has : 3c 6d 3h As 10h Kh in hand
+Fuck Signal has : in book
 
-Naris says - Yes. I have a 4
-Naris has : Jd 9h in hand
-Naris has : 7s 7d 5h 5d 10h 10s in book
-Alex has : Qh in hand
-Alex has : Kh Kc 3d 3c 4s 4h in book
+Fuck Signal asks - Do you have a 6?
+Fuck Physio says - Go Fish
+Fuck Physio has : 7d Ah 3d 9d Qd in hand
+Fuck Physio has : 8s 8h 5s 5h in book
+Fuck Signal has : 6d As 10h Kh 4h in hand
+Fuck Signal has : 3c 3h in book
 
-Naris says - Go Fish
-Naris has : Jd 9h in hand
-Naris has : 7s 7d 5h 5d 10h 10s in book
-Alex has : Qh Kd in hand
-Alex has : Kh Kc 3d 3c 4s 4h in book
+Fuck Physio asks - Do you have a Q?
+Fuck Signal says - Go Fish
+Fuck Physio has : 7d Ah 3d 9d Qd 7s in hand
+Fuck Physio has : 8s 8h 5s 5h in book
+Fuck Signal has : 6d As 10h Kh 4h in hand
+Fuck Signal has : 3c 3h in book
 
-Alex says - Go Fish
-Naris has : Jd 9h Ad in hand
-Naris has : 7s 7d 5h 5d 10h 10s in book
-Alex has : Qh Kd in hand
-Alex has : Kh Kc 3d 3c 4s 4h in book
+Fuck Signal asks - Do you have a 4?
+Fuck Physio says - Go Fish
+Fuck Physio has : 7d Ah 3d 9d Qd 7s in hand
+Fuck Physio has : 8s 8h 5s 5h in book
+Fuck Signal has : 6d As 10h Kh 4h Ac in hand
+Fuck Signal has : 3c 3h in book
 
-Naris says - Go Fish
-Naris has : Jd 9h Ad in hand
-Naris has : 7s 7d 5h 5d 10h 10s in book
-Alex has : Qh Kd 2c in hand
-Alex has : Kh Kc 3d 3c 4s 4h in book
+Fuck Physio asks - Do you have a A?
+Fuck Signal says - Yes. I have a A
+Fuck Signal says - Yes. I have a A
+Fuck Physio has : 3d 9d Qd Ac in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
+Fuck Signal has : 6d 10h Kh 4h in hand
+Fuck Signal has : 3c 3h in book
 
-Alex says - Go Fish
-Naris has : Jd 9h Ad 2s in hand
-Naris has : 7s 7d 5h 5d 10h 10s in book
-Alex has : Qh Kd 2c in hand
-Alex has : Kh Kc 3d 3c 4s 4h in book
+Fuck Physio asks - Do you have a 3?
+Fuck Signal says - Go Fish
+Fuck Physio has : 3d 9d Qd Ac 6s in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
+Fuck Signal has : 6d 10h Kh 4h in hand
+Fuck Signal has : 3c 3h in book
 
-Naris says - Yes. I have a 2
-Naris has : Jd 9h Ad in hand
-Naris has : 7s 7d 5h 5d 10h 10s in book
-Alex has : Qh Kd in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s in book
+Fuck Signal asks - Do you have a 6?
+Fuck Physio says - Yes. I have a 6
+Fuck Physio has : 3d 9d Qd Ac in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
+Fuck Signal has : 10h Kh 4h in hand
+Fuck Signal has : 3c 3h 6d 6s in book
 
-Naris says - Go Fish
-Naris has : Jd 9h Ad in hand
-Naris has : 7s 7d 5h 5d 10h 10s in book
-Alex has : Qh Kd 9d in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s in book
+Fuck Signal asks - Do you have a K?
+Fuck Physio says - Go Fish
+Fuck Physio has : 3d 9d Qd Ac in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
+Fuck Signal has : 10h Kh 4h 7h in hand
+Fuck Signal has : 3c 3h 6d 6s in book
 
-Alex says - Go Fish
-Naris has : Jd 9h Ad Ac in hand
-Naris has : 7s 7d 5h 5d 10h 10s in book
-Alex has : Qh Kd 9d in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s in book
+Fuck Physio asks - Do you have a 3?
+Fuck Signal says - Go Fish
+Fuck Physio has : 3d 9d Qd Ac 2h in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
+Fuck Signal has : 10h Kh 4h 7h in hand
+Fuck Signal has : 3c 3h 6d 6s in book
 
-Naris says - Yes. I have a 9
-Naris has : Jd Ad Ac in hand
-Naris has : 7s 7d 5h 5d 10h 10s in book
-Alex has : Qh Kd in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h in book
+Fuck Signal asks - Do you have a 10?
+Fuck Physio says - Go Fish
+Fuck Physio has : 3d 9d Qd Ac 2h in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
+Fuck Signal has : 10h Kh 4h 7h Ad in hand
+Fuck Signal has : 3c 3h 6d 6s in book
 
-Naris says - Go Fish
-Naris has : Jd Ad Ac in hand
-Naris has : 7s 7d 5h 5d 10h 10s in book
-Alex has : Qh Kd 4d in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h in book
+Fuck Physio asks - Do you have a 2?
+Fuck Signal says - Go Fish
+Fuck Physio has : 3d 9d Qd Ac 2h 10c in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
+Fuck Signal has : 10h Kh 4h 7h Ad in hand
+Fuck Signal has : 3c 3h 6d 6s in book
 
-Alex says - Go Fish
-Naris has : Jd Ah in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac in book
-Alex has : Qh Kd 4d in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h in book
+Fuck Signal asks - Do you have a A?
+Fuck Physio says - Yes. I have a A
+Fuck Physio has : 3d 9d Qd 2h 10c in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
+Fuck Signal has : 10h Kh 4h 7h in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac in book
 
-Naris says - Go Fish
-Naris has : Jd Ah in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac in book
-Alex has : Qh Kd 4d 5c in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h in book
+Fuck Signal asks - Do you have a 10?
+Fuck Physio says - Yes. I have a 10
+Fuck Physio has : 3d 9d Qd 2h in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
+Fuck Signal has : Kh 4h 7h in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c in book
 
-Alex says - Go Fish
-Naris has : Jd Ah 6h in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac in book
-Alex has : Qh Kd 4d 5c in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h in book
+Fuck Signal asks - Do you have a 4?
+Fuck Physio says - Go Fish
+Fuck Physio has : 3d 9d Qd 2h in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
+Fuck Signal has : Kh 4h 7h 10d in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c in book
 
-Naris says - Go Fish
-Naris has : Jd Ah 6h in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac in book
-Alex has : Qh Kd 4d 5c 3s in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h in book
+Fuck Physio asks - Do you have a 3?
+Fuck Signal says - Go Fish
+Fuck Physio has : 3d 9d Qd 2h 4d in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
+Fuck Signal has : Kh 4h 7h 10d in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c in book
 
-Alex says - Go Fish
-Naris has : Jd Ah 6h 10c in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac in book
-Alex has : Qh Kd 4d 5c 3s in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h in book
+Fuck Signal asks - Do you have a K?
+Fuck Physio says - Go Fish
+Fuck Physio has : 3d 9d Qd 2h 4d in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As in book
+Fuck Signal has : Kh 4h 7h 10d 2c in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c in book
 
-Naris says - Go Fish
-Naris has : Jd Ah 6h 10c in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac in book
-Alex has : Qh Kd 4d 5c 3s Qc in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h in book
+Fuck Physio asks - Do you have a 4?
+Fuck Signal says - Yes. I have a 4
+Fuck Physio has : 3d 9d Qd 2h in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
+Fuck Signal has : Kh 7h 10d 2c in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c in book
 
-Alex says - Go Fish
-Naris has : Jd Ah 6h 10c 9c in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac in book
-Alex has : Qh Kd 4d 5c 3s Qc in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h in book
+Fuck Physio asks - Do you have a 3?
+Fuck Signal says - Go Fish
+Fuck Physio has : 3d 9d Qd 2h 4c in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
+Fuck Signal has : Kh 7h 10d 2c in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c in book
 
-Naris says - Go Fish
-Naris has : Jd Ah 6h 10c 9c in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac in book
-Alex has : Kd 4d 5c 3s Ks in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc in book
+Fuck Signal asks - Do you have a K?
+Fuck Physio says - Go Fish
+Fuck Physio has : 3d 9d Qd 2h 4c in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
+Fuck Signal has : Kh 7h 10d 2c 10s in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c in book
 
-Alex says - Go Fish
-Naris has : Jd Ah 6h 10c 9c 8h in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac in book
-Alex has : Kd 4d 5c 3s Ks in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc in book
+Fuck Physio asks - Do you have a 4?
+Fuck Signal says - Go Fish
+Fuck Physio has : 3d 9d Qd 2h 4c Kc in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
+Fuck Signal has : Kh 7h 10d 2c 10s in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c in book
 
-Naris says - Go Fish
-Naris has : Jd Ah 6h 10c 9c 8h in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac in book
-Alex has : 4d 5c 3s 8c in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks in book
+Fuck Signal asks - Do you have a 7?
+Fuck Physio says - Go Fish
+Fuck Physio has : 3d 9d Qd 2h 4c Kc in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
+Fuck Signal has : Kh 7h 2c 9h in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s in book
 
-Alex says - Yes. I have a 8
-Naris has : Jd Ah 6h 10c 9c in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c in book
-Alex has : 4d 5c 3s in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks in book
+Fuck Physio asks - Do you have a 4?
+Fuck Signal says - Go Fish
+Fuck Physio has : 3d 9d Qd 2h 4c Kc Jh in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
+Fuck Signal has : Kh 7h 2c 9h in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s in book
 
-Alex says - Go Fish
-Naris has : Jd Ah 6h 10c 9c 8d in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c in book
-Alex has : 4d 5c 3s in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks in book
+Fuck Signal asks - Do you have a K?
+Fuck Physio says - Yes. I have a K
+Fuck Physio has : 3d 9d Qd 2h 4c Jh in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
+Fuck Signal has : 7h 2c 9h in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc in book
 
-Naris says - Go Fish
-Naris has : Jd Ah 6h 10c 9c 8d in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c in book
-Alex has : 4d 5c 3s 5s in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks in book
+Fuck Signal asks - Do you have a 2?
+Fuck Physio says - Yes. I have a 2
+Fuck Physio has : 3d 9d Qd 4c Jh in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
+Fuck Signal has : 7h 9h in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h in book
 
-Alex says - Go Fish
-Naris has : Jd Ah 6h 10c 9c 8d 2h in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c in book
-Alex has : 4d 5c 3s 5s in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks in book
+Fuck Signal asks - Do you have a 7?
+Fuck Physio says - Go Fish
+Fuck Physio has : 3d 9d Qd 4c Jh in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
+Fuck Signal has : 7h 9h 2s in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h in book
 
-Naris says - Go Fish
-Naris has : Jd Ah 6h 10c 9c 8d 2h in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c in book
-Alex has : 4d 3s 2d in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s in book
+Fuck Physio asks - Do you have a J?
+Fuck Signal says - Go Fish
+Fuck Physio has : 3d 9d Qd 4c Jh 9s in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
+Fuck Signal has : 7h 9h 2s in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h in book
 
-Alex says - Go Fish
-Naris has : Jd Ah 6h 10c 9c 8d 2h 6s in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c in book
-Alex has : 4d 3s 2d in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s in book
+Fuck Signal asks - Do you have a 9?
+Fuck Physio says - Yes. I have a 9
+Fuck Physio says - Yes. I have a 9
+Fuck Physio has : 3d Qd 4c Jh in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
+Fuck Signal has : 7h 2s 9s in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d in book
 
-Naris says - Yes. I have a 2
-Naris has : Jd Ah 6h 10c 9c 8d 6s in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c in book
-Alex has : 4d 3s in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h in book
+Fuck Signal asks - Do you have a 2?
+Fuck Physio says - Go Fish
+Fuck Physio has : 3d Qd 4c Jh in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
+Fuck Signal has : 7h 2s 9s Qh in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d in book
 
-Naris says - Go Fish
-Naris has : Jd Ah 6h 10c 9c 8d 6s in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c in book
-Alex has : 4d 3s Js in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h in book
+Fuck Physio asks - Do you have a 3?
+Fuck Signal says - Go Fish
+Fuck Physio has : 3d Qd 4c Jh 8c in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
+Fuck Signal has : 7h 2s 9s Qh in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d in book
 
-Alex says - Go Fish
-Naris has : Jd Ah 10c 9c 8d 8s in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s in book
-Alex has : 4d 3s Js in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h in book
+Fuck Signal asks - Do you have a 7?
+Fuck Physio says - Go Fish
+Fuck Physio has : 3d Qd 4c Jh 8c in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
+Fuck Signal has : 7h 2s 9s Qh 7c in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d in book
 
-Naris says - Yes. I have a J
-Naris has : Ah 10c 9c 8d 8s in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s in book
-Alex has : 4d 3s in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd in book
+Fuck Physio asks - Do you have a 8?
+Fuck Signal says - Go Fish
+Fuck Physio has : 3d Qd 4c Jh 8c Qc in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
+Fuck Signal has : 7h 2s 9s Qh 7c in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d in book
 
-Naris says - Go Fish
-Naris has : Ah 10c 9c 8d 8s in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s in book
-Alex has : 4d 3s 10d in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd in book
+Fuck Signal asks - Do you have a 9?
+Fuck Physio says - Go Fish
+Fuck Physio has : 3d Qd 4c Jh 8c Qc in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h in book
+Fuck Signal has : 2s 9s Qh Js in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
 
-Alex says - Go Fish
-Naris has : Ah 10c 9c Jh in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s 8d 8s in book
-Alex has : 4d 3s 10d in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd in book
+Fuck Physio asks - Do you have a 3?
+Fuck Signal says - Go Fish
+Fuck Physio has : 3d 4c Jh 8c Ks in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc in book
+Fuck Signal has : 2s 9s Qh Js in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
 
-Naris says - Yes. I have a 10
-Naris has : Ah 9c Jh in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s 8d 8s in book
-Alex has : 4d 3s in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd 10d 10c in book
+Fuck Signal asks - Do you have a 2?
+Fuck Physio says - Go Fish
+Fuck Physio has : 3d 4c Jh 8c Ks in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc in book
+Fuck Signal has : 2s 9s Qh Js 6h in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
 
-Naris says - Go Fish
-Naris has : Ah 9c Jh in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s 8d 8s in book
-Alex has : 4d 3s 3h in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd 10d 10c in book
+Fuck Physio asks - Do you have a K?
+Fuck Signal says - Go Fish
+Fuck Physio has : 3d 4c Jh 8c Ks Qs in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc in book
+Fuck Signal has : 2s 9s Qh Js 6h in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
 
-Alex says - Go Fish
-Naris has : Ah 9c Jh 4c in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s 8d 8s in book
-Alex has : 4d 3s 3h in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd 10d 10c in book
+Fuck Signal asks - Do you have a 6?
+Fuck Physio says - Go Fish
+Fuck Physio has : 3d 4c Jh 8c Ks Qs in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc in book
+Fuck Signal has : 2s 9s Qh Js 6h Kd in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
 
-Naris says - Yes. I have a 4
-Naris has : Ah 9c Jh in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s 8d 8s in book
-Alex has : in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd 10d 10c 3s 3h 4d 4c in book
+Fuck Physio asks - Do you have a K?
+Fuck Signal says - Yes. I have a K
+Fuck Physio has : 3d 4c Jh 8c Qs in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd in book
+Fuck Signal has : 2s 9s Qh Js 6h in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
 
-Naris says - Go Fish
-Naris has : Ah 9c Jh in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s 8d 8s in book
-Alex has : Qs As in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd 10d 10c 3s 3h 4d 4c in book
+Fuck Physio asks - Do you have a Q?
+Fuck Signal says - Yes. I have a Q
+Fuck Physio has : 3d 4c Jh 8c in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh in book
+Fuck Signal has : 2s 9s Js 6h in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
 
-Alex says - Go Fish
-Naris has : Ah 9c Jh Jc in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s 8d 8s in book
-Alex has : Qs As in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd 10d 10c 3s 3h 4d 4c in book
+Fuck Physio asks - Do you have a 3?
+Fuck Signal says - Go Fish
+Fuck Physio has : 3d 4c Jh 8c 5c in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh in book
+Fuck Signal has : 2s 9s Js 6h in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
 
-Naris says - Yes. I have a A
-Naris has : 9c Jh Jc in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s 8d 8s in book
-Alex has : Qs in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd 10d 10c 3s 3h 4d 4c As Ah in book
+Fuck Signal asks - Do you have a 2?
+Fuck Physio says - Go Fish
+Fuck Physio has : 3d 4c Jh 8c 5c in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh in book
+Fuck Signal has : 2s 9s Js 6h 5d in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
 
-Naris says - Go Fish
-Naris has : 9c Jh Jc in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s 8d 8s in book
-Alex has : Qs 6d in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd 10d 10c 3s 3h 4d 4c As Ah in book
+Fuck Physio asks - Do you have a 5?
+Fuck Signal says - Yes. I have a 5
+Fuck Physio has : 3d 4c Jh 8c in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d in book
+Fuck Signal has : 2s 9s Js 6h in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
 
-Alex says - Go Fish
-Naris has : 9c 6c in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s 8d 8s Jh Jc in book
-Alex has : Qs 6d in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd 10d 10c 3s 3h 4d 4c As Ah in book
+Fuck Physio asks - Do you have a 3?
+Fuck Signal says - Go Fish
+Fuck Physio has : 3d 4c Jh 8c 3s in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d in book
+Fuck Signal has : 2s 9s Js 6h in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
 
-Naris says - Yes. I have a 6
-Naris has : 9c in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s 8d 8s Jh Jc in book
-Alex has : Qs in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd 10d 10c 3s 3h 4d 4c As Ah 6d 6c in book
+Fuck Signal asks - Do you have a 2?
+Fuck Physio says - Go Fish
+Fuck Physio has : 3d 4c Jh 8c 3s in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d in book
+Fuck Signal has : 2s 9s Js 6h 9c in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
 
-Naris says - Go Fish
-Naris has : 9c in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s 8d 8s Jh Jc in book
-Alex has : Qs 7h in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd 10d 10c 3s 3h 4d 4c As Ah 6d 6c in book
+Fuck Physio asks - Do you have a J?
+Fuck Signal says - Yes. I have a J
+Fuck Physio has : 4c 8c in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js in book
+Fuck Signal has : 2s 9s 6h 9c in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
 
-Alex says - Go Fish
-Naris has : 9c 7c in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s 8d 8s Jh Jc in book
-Alex has : Qs 7h in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd 10d 10c 3s 3h 4d 4c As Ah 6d 6c in book
+Fuck Physio asks - Do you have a 4?
+Fuck Signal says - Go Fish
+Fuck Physio has : 4c 8c 6c in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js in book
+Fuck Signal has : 2s 9s 6h 9c in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c in book
 
-Naris says - Yes. I have a 7
-Naris has : 9c in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s 8d 8s Jh Jc in book
-Alex has : Qs in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd 10d 10c 3s 3h 4d 4c As Ah 6d 6c 7h 7c in book
+Fuck Signal asks - Do you have a 2?
+Fuck Physio says - Go Fish
+Fuck Physio has : 4c 8c 6c in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js in book
+Fuck Signal has : 2s 6h Jc in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c 9s 9c in book
 
-Naris says - Go Fish
-Naris has : 9c in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s 8d 8s Jh Jc in book
-Alex has : Qs 9s in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd 10d 10c 3s 3h 4d 4c As Ah 6d 6c 7h 7c in book
+Fuck Physio asks - Do you have a 8?
+Fuck Signal says - Go Fish
+Fuck Physio has : 4c 8c 6c 2d in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js in book
+Fuck Signal has : 2s 6h Jc in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c 9s 9c in book
 
-Alex says - Yes. I have a 9
-Naris has : in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s 8d 8s Jh Jc 9c 9s in book
-Alex has : Qs in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd 10d 10c 3s 3h 4d 4c As Ah 6d 6c 7h 7c in book
+Fuck Signal asks - Do you have a 6?
+Fuck Physio says - Yes. I have a 6
+Fuck Physio has : 4c 8c 2d in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js in book
+Fuck Signal has : 2s Jc in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c 9s 9c 6h 6c in book
 
-Alex says - Yes. I have a Q
-Naris has : in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s 8d 8s Jh Jc 9c 9s Qd Qs in book
-Alex has : in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd 10d 10c 3s 3h 4d 4c As Ah 6d 6c 7h 7c in book
+Fuck Signal asks - Do you have a 2?
+Fuck Physio says - Yes. I have a 2
+Fuck Physio has : 4c 8c in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js in book
+Fuck Signal has : Jc in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c 9s 9c 6h 6c 2s 2d in book
 
-Naris has : in hand
-Naris has : 7s 7d 5h 5d 10h 10s Ad Ac 8h 8c 6h 6s 8d 8s Jh Jc 9c 9s Qd Qs in book
-Alex has : in hand
-Alex has : Kh Kc 3d 3c 4s 4h 2c 2s 9d 9h Qh Qc Kd Ks 5c 5s 2d 2h Js Jd 10d 10c 3s 3h 4d 4c As Ah 6d 6c 7h 7c in book
+Fuck Signal asks - Do you have a J?
+Fuck Physio says - Go Fish
+Fuck Physio has : 4c 8c in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js in book
+Fuck Signal has : Jc Jd in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c 9s 9c 6h 6c 2s 2d in book
 
-Naris has 10 books 
-Alex has 16 books 
-Alex won
+Fuck Physio asks - Do you have a 4?
+Fuck Signal says - Go Fish
+Fuck Physio has : 4c 8c 4s in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js in book
+Fuck Signal has : Jc Jd in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c 9s 9c 6h 6c 2s 2d in book
+
+Fuck Signal asks - Do you have a 8?
+Fuck Physio says - Yes. I have a 8
+Fuck Physio has : 4c 4s in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js in book
+Fuck Signal has : in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c 9s 9c 6h 6c 2s 2d Jc Jd 8d 8c in book
+
+Fuck Physio has : in hand
+Fuck Physio has : 8s 8h 5s 5h 7d 7s Ah As 4d 4h Qd Qc Ks Kd Qs Qh 5c 5d 3d 3s Jh Js 4c 4s in book
+Fuck Signal has : in hand
+Fuck Signal has : 3c 3h 6d 6s Ad Ac 10h 10c 10d 10s Kh Kc 2c 2h 9h 9d 7h 7c 9s 9c 6h 6c 2s 2d Jc Jd 8d 8c in book
+
+Fuck Physio has 12 books 
+Fuck Signal has 14 books 
+Fuck Signal won

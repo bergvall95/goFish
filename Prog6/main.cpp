@@ -22,8 +22,8 @@ Card handOver(Player &a, Player &b, Card &c);
 int main( ) {
     int numCards = 7;
 
-    Player p1("Naris");
-    Player p2("Alex");
+    Player p1("Fuck Physio");
+    Player p2("Fuck Signal");
 
     Deck d;  //create a deck of cards
     d.shuffle();
@@ -49,7 +49,8 @@ int main( ) {
                 dealHand(d, p1, 1);
             }
             Card c1 = p1.chooseCardFromHand();
-            ask(p1, c1);
+            cout << p1.getName() << " asks - Do you have a " << c1.rankString(c1.getRank()) << "?\n";
+            myfile << p1.getName() << " asks - Do you have a " << c1.rankString(c1.getRank()) << "?\n";
             bool x = p2.cardInHand(c1);
             if (x == true) {
                 while (p2.cardInHand(c1) == true) {
@@ -91,7 +92,8 @@ int main( ) {
                 dealHand(d, p2, 1);
             }
             Card c1 = p2.chooseCardFromHand();
-            ask(p2, c1);
+            cout << p2.getName() << " asks - Do you have a " << c1.rankString(c1.getRank()) << "?\n";
+            myfile << p2.getName() << " asks - Do you have a " << c1.rankString(c1.getRank()) << "?\n";
             bool x = p1.cardInHand(c1);
             if (x == true) {
                 while (p1.cardInHand(c1) == true) {
@@ -167,6 +169,4 @@ void dealHand(Deck &d, Player &p, int numCards) {
         p.addCard(d.dealCard());
 }
 
-void ask(Player &a, Card &c){
-    cout << a.getName() << " asks = Do you have a " << c.rankString(c.getRank()) << "?\n";
-}
+
