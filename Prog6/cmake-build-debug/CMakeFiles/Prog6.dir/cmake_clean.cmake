@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Prog6.dir/main.cpp.obj"
+  "CMakeFiles/Prog6.dir/go_fish.cpp.obj"
   "CMakeFiles/Prog6.dir/card.cpp.obj"
   "CMakeFiles/Prog6.dir/deck.cpp.obj"
   "CMakeFiles/Prog6.dir/player.cpp.obj"

@@ -6,7 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Naris/Documents/EE312/Prog6/card.cpp" "C:/Users/Naris/Documents/EE312/Prog6/cmake-build-debug/CMakeFiles/Prog6.dir/card.cpp.obj"
   "C:/Users/Naris/Documents/EE312/Prog6/deck.cpp" "C:/Users/Naris/Documents/EE312/Prog6/cmake-build-debug/CMakeFiles/Prog6.dir/deck.cpp.obj"
-  "C:/Users/Naris/Documents/EE312/Prog6/main.cpp" "C:/Users/Naris/Documents/EE312/Prog6/cmake-build-debug/CMakeFiles/Prog6.dir/main.cpp.obj"
+  "C:/Users/Naris/Documents/EE312/Prog6/go_fish.cpp" "C:/Users/Naris/Documents/EE312/Prog6/cmake-build-debug/CMakeFiles/Prog6.dir/go_fish.cpp.obj"
   "C:/Users/Naris/Documents/EE312/Prog6/player.cpp" "C:/Users/Naris/Documents/EE312/Prog6/cmake-build-debug/CMakeFiles/Prog6.dir/player.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

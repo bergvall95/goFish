@@ -8,10 +8,10 @@ CMakeFiles/Prog6.dir/deck.cpp.obj: ../card.h
 CMakeFiles/Prog6.dir/deck.cpp.obj: ../deck.cpp
 CMakeFiles/Prog6.dir/deck.cpp.obj: ../deck.h
 
-CMakeFiles/Prog6.dir/main.cpp.obj: ../card.h
-CMakeFiles/Prog6.dir/main.cpp.obj: ../deck.h
-CMakeFiles/Prog6.dir/main.cpp.obj: ../main.cpp
-CMakeFiles/Prog6.dir/main.cpp.obj: ../player.h
+CMakeFiles/Prog6.dir/go_fish.cpp.obj: ../card.h
+CMakeFiles/Prog6.dir/go_fish.cpp.obj: ../deck.h
+CMakeFiles/Prog6.dir/go_fish.cpp.obj: ../go_fish.cpp
+CMakeFiles/Prog6.dir/go_fish.cpp.obj: ../player.h
 
 CMakeFiles/Prog6.dir/player.cpp.obj: ../card.h
 CMakeFiles/Prog6.dir/player.cpp.obj: ../deck.h

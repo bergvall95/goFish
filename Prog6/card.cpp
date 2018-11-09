@@ -1,7 +1,7 @@
 //
 // Created by Naris on 11/1/2018.
 //
-
+#include <sstream>
 #include "card.h"
 #include <string>
 #include <iostream>
@@ -35,7 +35,11 @@ string Card ::toString() const {
             s = "Ks";
         }
         else {
-            s = to_string(myRank) + "s";
+            string x;
+            stringstream y;
+            y << myRank;
+            x = y.str();
+            s = x + "s";
         }
     }
     else if(mySuit == hearts) {
@@ -52,7 +56,11 @@ string Card ::toString() const {
             s = "Kh";
         }
         else {
-            s = to_string(myRank) + "h";
+            string x;
+            stringstream y;
+            y << myRank;
+            x = y.str();
+            s = x + "h";
         }
     }
     else if(mySuit == diamonds) {
@@ -69,7 +77,11 @@ string Card ::toString() const {
             s = "Kd";
         }
         else {
-            s = to_string(myRank) + "d";
+            string x;
+            stringstream y;
+            y << myRank;
+            x = y.str();
+            s = x + "d";
         }
     }
     else {
@@ -86,7 +98,11 @@ string Card ::toString() const {
             s = "Kc";
         }
         else {
-            s = to_string(myRank) + "c";
+            string x;
+            stringstream y;
+            y << myRank;
+            x = y.str();
+            s = x + "c";
         }
     }
     return s;
@@ -134,7 +150,11 @@ string Card ::rankString(int r) const {
         s = "K";
     }
     else {
-        s = to_string(r);
+        string x;
+        stringstream y;
+        y << r;
+        x = y.str();
+        s = x;
     }
     return s;
 }

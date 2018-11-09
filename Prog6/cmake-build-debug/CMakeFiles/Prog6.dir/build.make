@@ -56,18 +56,18 @@ include CMakeFiles/Prog6.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Prog6.dir/flags.make
 
-CMakeFiles/Prog6.dir/main.cpp.obj: CMakeFiles/Prog6.dir/flags.make
-CMakeFiles/Prog6.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Naris\Documents\EE312\Prog6\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Prog6.dir/main.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Prog6.dir\main.cpp.obj -c C:\Users\Naris\Documents\EE312\Prog6\main.cpp
+CMakeFiles/Prog6.dir/go_fish.cpp.obj: CMakeFiles/Prog6.dir/flags.make
+CMakeFiles/Prog6.dir/go_fish.cpp.obj: ../go_fish.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Naris\Documents\EE312\Prog6\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Prog6.dir/go_fish.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Prog6.dir\go_fish.cpp.obj -c C:\Users\Naris\Documents\EE312\Prog6\go_fish.cpp
 
-CMakeFiles/Prog6.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Prog6.dir/main.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Naris\Documents\EE312\Prog6\main.cpp > CMakeFiles\Prog6.dir\main.cpp.i
+CMakeFiles/Prog6.dir/go_fish.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Prog6.dir/go_fish.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Naris\Documents\EE312\Prog6\go_fish.cpp > CMakeFiles\Prog6.dir\go_fish.cpp.i
 
-CMakeFiles/Prog6.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Prog6.dir/main.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Naris\Documents\EE312\Prog6\main.cpp -o CMakeFiles\Prog6.dir\main.cpp.s
+CMakeFiles/Prog6.dir/go_fish.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Prog6.dir/go_fish.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Naris\Documents\EE312\Prog6\go_fish.cpp -o CMakeFiles\Prog6.dir\go_fish.cpp.s
 
 CMakeFiles/Prog6.dir/card.cpp.obj: CMakeFiles/Prog6.dir/flags.make
 CMakeFiles/Prog6.dir/card.cpp.obj: ../card.cpp
@@ -110,7 +110,7 @@ CMakeFiles/Prog6.dir/player.cpp.s: cmake_force
 
 # Object files for target Prog6
 Prog6_OBJECTS = \
-"CMakeFiles/Prog6.dir/main.cpp.obj" \
+"CMakeFiles/Prog6.dir/go_fish.cpp.obj" \
 "CMakeFiles/Prog6.dir/card.cpp.obj" \
 "CMakeFiles/Prog6.dir/deck.cpp.obj" \
 "CMakeFiles/Prog6.dir/player.cpp.obj"
@@ -118,7 +118,7 @@ Prog6_OBJECTS = \
 # External object files for target Prog6
 Prog6_EXTERNAL_OBJECTS =
 
-Prog6.exe: CMakeFiles/Prog6.dir/main.cpp.obj
+Prog6.exe: CMakeFiles/Prog6.dir/go_fish.cpp.obj
 Prog6.exe: CMakeFiles/Prog6.dir/card.cpp.obj
 Prog6.exe: CMakeFiles/Prog6.dir/deck.cpp.obj
 Prog6.exe: CMakeFiles/Prog6.dir/player.cpp.obj

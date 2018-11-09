@@ -60,10 +60,9 @@ Card Player::chooseCardFromHand() const{
 
 //Does the player have the card c in her hand?
 bool Player::cardInHand(Card c) const{
-    vector<Card>::const_iterator iter;
 
-    for(iter = myHand.cbegin();iter != myHand.cend(); iter++){
-        if((*iter).getRank() == c.getRank()){ // if the rank of the card in the hand is equal to the rank of the card given to the function, return true
+    for(int i = 0; i < myHand.size(); i++){
+        if((myHand.at(i).getRank() == c.getRank())){ // if the rank of the card in the hand is equal to the rank of the card given to the function, return true
             return true;
         }
     }
@@ -72,16 +71,16 @@ bool Player::cardInHand(Card c) const{
 
 //Remove the card c from the hand and return it to the caller
 Card Player::removeCardFromHand(Card c){
-    vector<Card>::const_iterator iter;
 
-    for(iter = myHand.cbegin();iter != myHand.cend(); iter++){
-        if((*iter).getRank() == c.getRank()){ // if the rank of the card in the hand is equal to the rank of the card given to the function, return true
-            Card c = (*iter);
-            myHand.erase(iter);
+    for(int i = 0; i < myHand.size(); i++){
+        if((myHand.at(i).getRank() == c.getRank())){ // if the rank of the card in the hand is equal to the rank of the card given to the function, return true
+            Card c = myHand.at(i);
+            myHand.erase(myHand.begin()+i);
             return c;
         }
     }
 }
+
 
 string Player::showHand() const{
     string x;
@@ -132,10 +131,8 @@ bool Player::checkHandForPair(Card &c1, Card &c2){
 //e.g. will return true if the player has a 7d and the parameter is 7c
 
 bool Player::sameRankInHand(Card c) const{
-    vector<Card>::const_iterator iter;
-
-    for(iter = myHand.begin(); iter != myHand.end(); iter++){
-        if((*iter).getRank() ==c.getRank()){ // if the rank of the card in the hand is equal to the rank of the card given to the function, return true
+    for(int i = 0; i < myHand.size(); i++){
+        if((myHand.at(i).getRank() == c.getRank())){ // if the rank of the card in the hand is equal to the rank of the card given to the function, return true
             return true;
         }
     }
